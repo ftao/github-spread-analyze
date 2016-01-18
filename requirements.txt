@@ -1,0 +1,7 @@
+ipython
+jupyter
+pygithub
+numpy
+pandas
+matplotlib
+mpld3
