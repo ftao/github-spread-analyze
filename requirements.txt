@@ -6,3 +6,4 @@ pandas
 matplotlib
 mpld3
 networkx
+pygraphviz
